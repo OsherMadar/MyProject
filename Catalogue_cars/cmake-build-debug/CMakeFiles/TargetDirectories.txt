@@ -1,0 +1,3 @@
+C:/Users/User/CLionProjects/Catalogue_cars/cmake-build-debug/CMakeFiles/Catalogue_cars.dir
+C:/Users/User/CLionProjects/Catalogue_cars/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/CLionProjects/Catalogue_cars/cmake-build-debug/CMakeFiles/rebuild_cache.dir
